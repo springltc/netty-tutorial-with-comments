@@ -16,3 +16,4 @@ build/
 Thumbs.db  # Windows 系统文件
 
 .DS_Store
+*.iml  # 忽略所有 .iml 文件
